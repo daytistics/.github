@@ -1,6 +1,6 @@
 # Adfectatio
 <br>
-<img src="https://workupload.com/file/8N6SSw6j8wG" alt="adfectatio logo">
+<img src="https://i.ibb.co/W0H16N8/logo-green-bg-removebg-preview.png" alt="adfectatio logo">
 <br>
 You see things; and you say 'Why?' But I dream things that never were; and I say 'Why not?'<br>
 <i>~ George Bernard Shaw</i>
@@ -13,5 +13,4 @@ At the moment, Adfectatio is "only" an organization that deals with the developm
 <br>
 It will be a long time before we get to that point. I (Leo) still have to finish school, study and gain a lot of experience. But I believe in my dream!
 
-## Our Team
-### Leo Gall - Founder & Developer
+## Milestones
