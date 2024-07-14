@@ -13,6 +13,6 @@ At the moment, Adfectatio is "only" an organization that deals with the developm
 <i>~ Leo Gall</i>
 <br>
 <br>
-It will be a long time before we get to that point. I (Leo) still have to finish school, study and gain a lot of experience. But I believe in my dream!
+It will be a long time before we get to that point. I (Leo) still have to finish school, study and gain a lot of experience. **But I believe in my dream!**
 
 ## Milestones
