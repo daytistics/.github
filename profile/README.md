@@ -1,6 +1,6 @@
 # Adfectatio
 <br>
-<img src="https://i.ibb.co/W0H16N8/logo-green-bg-removebg-preview.png" alt="adfectatio logo" width=50px>
+<img src="https://i.ibb.co/W0H16N8/logo-green-bg-removebg-preview.png" alt="adfectatio logo" width=200px>
 <br>
 You see things; and you say 'Why?' But I dream things that never were; and I say 'Why not?'<br>
 <i>~ George Bernard Shaw</i>
