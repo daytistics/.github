@@ -15,4 +15,5 @@ At the moment, Adfectatio is "only" an organization that deals with the developm
 <br>
 It will be a long time before we get to that point. I (Leo) still have to finish school, study and gain a lot of experience. **But I believe in my dream!**
 
-## Milestones
+## Annotation
+We are working on getting our organization name "Adfectatio" back. Until we get it back, we will appear (only on github) as "adf-tech".
