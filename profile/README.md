@@ -14,3 +14,6 @@ Every day you make decisions that affect whether your day is good or bad. You pr
 **Because the past is also interesting**, we also offer you a small diary to help you reflect on your day.
 
 _AI features are only available to you if you provide us with enough information about your activities and daily achievements, have purchased the premium plan and have agreed to the use of your data for AI training._
+
+## Questions
+If you have any questions, feel free to ask them in the [discussions](https://github.com/daytistics/daytistics-core/discussions/categories/questions) or by email to daytistics@gmail.com.
