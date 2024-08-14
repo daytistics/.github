@@ -1,6 +1,6 @@
 # Daytistics
 <br>
-<img src="https://i.ibb.co/W0H16N8/logo-green-bg-removebg-preview.png" alt="adfectatio logo" width=200px>
+<img src="blob:https://imgur.com/dfae3126-6bb5-40d7-94e9-9df2b6d2fbfb" alt="daytistics logo" width=200px>
 <br>
 Productivity is not about more work, but about making smarter decisions. Data is the compass that shows us the most efficient path.
 
