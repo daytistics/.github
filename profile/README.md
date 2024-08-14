@@ -1,9 +1,8 @@
-# Adfectatio
+# Daytistics
 <br>
 <img src="https://i.ibb.co/W0H16N8/logo-green-bg-removebg-preview.png" alt="adfectatio logo" width=200px>
 <br>
-You see things; and you say 'Why?' But I dream things that never were; and I say 'Why not?'<br>
-<i>~ George Bernard Shaw</i>
+Productivity is not about more work, but about making smarter decisions. Data is the compass that shows us the most efficient path.
 
 ## About Us
 This is the official Github organization for web development of the Adfectatio project. It develops projects to increase productivity and tools for software developers.
