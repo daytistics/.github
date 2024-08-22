@@ -13,7 +13,10 @@ Every day you make decisions that affect whether your day is good or bad. You pr
 <br><br>
 **Because the past is also interesting**, we also offer you a small diary to help you reflect on your day.
 
-_AI features are only available to you if you provide us with enough information about your activities and daily achievements, have purchased the premium plan and have agreed to the use of your data for AI training._
+_AI features are only available if you host our AI service on your own server._
+
+## State of Development
+We are currently in an early phase of development, which is why there are currently no public repositories available. If you would like to get insights into the development, you can join [our Discord](https://discord.gg/ccud6VkTv8).
 
 ## Questions
 If you have any questions, feel free to ask them in the [discussions](https://github.com/daytistics/daytistics-core/discussions/categories/questions) or by email to daytistics@gmail.com.
