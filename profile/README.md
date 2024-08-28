@@ -19,4 +19,4 @@ _AI features are only available if you host our AI service on your own server._
 We are currently in an early phase of development, which is why there are currently no public repositories available. If you would like to get insights into the development, you can join [our Discord](https://discord.gg/ccud6VkTv8).
 
 ## Questions
-If you have any questions, feel free to ask them in the [discussions](https://github.com/daytistics/daytistics-core/discussions/categories/questions) or by email to daytistics@gmail.com.
+If you have any questions, feel free to ask them in the [discussions](https://github.com/daytistics/daytistics-core/discussions/categories/questions) or by email to contact@daytistics.com.
