@@ -1,19 +1,17 @@
 # Daytistics
 <br>
-<img src="https://i.imgur.com/UCNrwDj.png" alt="daytistics logo" width=200px>
+<img src="https://i.imgur.com/X0qk0sY.png" alt="daytistics logo" width=200px>
 <br>
 Productivity is not about more work, but about making smarter decisions. Data is the compass that shows us the most efficient path.
 
 ## About the Project
-Every day you make decisions that affect whether your day is good or bad. You probably make this decision on impulse, but what often seems like the best option is often not the best option.
-<br><br>
-**We can help you to change this** because we believe that data-driven decisions are the better option in most cases, so we want to offer you software that can help you identify which activities make for a good day and which ones make for a bad one. All you have to do is track your daily activities over time and we can visualize the relationships between your activities and your feelings. 
-<br><br>
-**But what good is the past without the future?** Best of all, we offer you the ability to look into the future with a custom-trained AI model based on your data. You can enter a hypothetical day and we can help you figure out if that day is good for you. Our AI also filters out relationships and activities that are irrelevant to the success of your day.
-<br><br>
-**Because the past is also interesting**, we also offer you a small diary to help you reflect on your day.
-
-_AI features are only available if you host our AI service on your own server._
+Every day, you make decisions that affect whether your day turns out good or bad. These choices are often made on impulse, and what seems like the best option might not always be the right one.  
+<br />
+**We’re here to help you change that.** At Daytistics, we believe data-driven decisions lead to better outcomes. Our self-hostable app helps you track your daily activities and visualize how they impact your well-being. By analyzing this data over time, you can discover which activities contribute to a good day and which ones don’t.  
+<br />
+**But why stop at the past when you can predict the future?** Our custom-trained AI models, based on your personal data, allow you to enter a hypothetical day and predict how it might affect your well-being. The AI filters out irrelevant activities and relationships, helping you focus on what truly matters.  
+<br />
+**Reflecting on the past is also important.** That’s why Daytistics includes a built-in diary, giving you a space to reflect on your day and understand your emotions better.
 
 ## Questions
-If you have any questions, feel free to ask them in the [discussions](https://github.com/daytistics/daytistics-core/discussions/categories/questions) or by email to contact@daytistics.com.
+If you have any questions, feel free to ask them on our [discord](https://discord.gg/ccud6VkTv8). We are pleased that you are interested in us.
